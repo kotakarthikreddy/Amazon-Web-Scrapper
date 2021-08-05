@@ -16,8 +16,8 @@
 |5| My First IPhone Is Best...😀👍|
 |1| Check b4 buy|
 |5| A great phone|
-|5| Best purchase till date|
 |5| 100% Genuine|
+|5| Best purchase till date|
 |5| Mind-blowing Phone|
 |5| Trustworthy|
 |5| Power packed in a box|
@@ -25,6 +25,7 @@
 |5| Smart supplier and good phone|
 |4| Great experience !!|
 |5| Awesome|
+|1| Defective product received|
 |5| Iphone security|
 |5| Excellent purchase|
 |5| iPhone 12 Pro Packs a Punch|
@@ -52,7 +53,6 @@
 |5| Superb!|
 |2| Wastage of money|
 |1| The phone is heating up|
-|1| Discolouration on the body|
 |5| Super|
 |5| My phone is important for me|
 |5| Best phone ever|
@@ -127,8 +127,8 @@
 |5| My First IPhone Is Best...😀👍|
 |1| Check b4 buy|
 |5| A great phone|
-|5| Best purchase till date|
 |5| 100% Genuine|
+|5| Best purchase till date|
 |5| Mind-blowing Phone|
 |5| Trustworthy|
 |5| Power packed in a box|
@@ -136,6 +136,7 @@
 |5| Smart supplier and good phone|
 |4| Great experience !!|
 |5| Awesome|
+|1| Defective product received|
 |5| Iphone security|
 |5| Excellent purchase|
 |5| iPhone 12 Pro Packs a Punch|
@@ -163,7 +164,6 @@
 |5| Superb!|
 |2| Wastage of money|
 |1| The phone is heating up|
-|1| Discolouration on the body|
 |5| Super|
 |5| My phone is important for me|
 |5| Best phone ever|
