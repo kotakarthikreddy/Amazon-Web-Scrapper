@@ -1,6 +1,6 @@
 # Amazon-Web-Scrapper
 
-##Introduction:
+## Introduction:
 
 
 If you are scraping the data for data analysis or machine learning you are creating a dataset of your own ! Congratulations 🎉 . If you love this world of Data science and analysis you’ll come across a moment where you’ll need to create a dataset of your own and web scraping is your best tool for obtaining textual data. All the websites would keep updating so the web structure might change resulting that the code might not work but the effectiveness of the strategies will still remain intact.
@@ -12,25 +12,25 @@ Instead of looking at the job site every day, you can use Python to help automat
 Automated web scraping can be a solution to speed up the data collection process. You write your code once, and it will get the information you want many times and from many pages.
 
 
-##What you will learn from this post:
+## What you will learn from this post:
 
--basic understanding of web scraping
--how to extract data from a website using classes and HTML tags
--how to use requests module to get data
--how to use Beautifulsoup
+- basic understanding of web scraping
+- how to extract data from a website using classes and HTML tags
+- how to use requests module to get data
+- how to use Beautifulsoup
 
-##Requirements:
--python3
--requests
--bs4
+## Requirements:
+- python3
+- requests
+- bs4
 
 
-##Installation:
--sudo apt-get python3-pip
--pip3 install requests
--pip3 install bs4
+## Installation:
+- sudo apt-get python3-pip
+- pip3 install requests
+- pip3 install bs4
 
-##How to run this code
+## How to run this code
 
 - `git clone https://github.com/kotakarthikreddy/Amazon-Web-Scrapper/ `
 - open Google colab and upload [notebook file](https://github.com/kotakarthikreddy/Amazon-Web-Scrapper/blob/main/amazon_web_scapper.ipynb)
